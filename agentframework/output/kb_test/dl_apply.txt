@@ -1,0 +1,1 @@
+深度学习在计算机视觉领域应用广泛，CNN用于图像分类，Transformer架构推动了NLP的发展。大语言模型如GPT系列基于Transformer，具备强大的文本生成能力。
