@@ -15,8 +15,8 @@ class Settings(BaseSettings):
 
     # LLM 模型配置
     model: str = "sensenova-6.8-flash-lite"
-    base_url: str = "https://token.sensenova.cn/v1"
-    api_key: str = "sk-YDKSdG8uGeUYTo7TXSdeExW6khDkaQa8"
+    base_url: str = ""
+    api_key: str = ""
 
     # Agent 行为配置
     agent_max_iterations: int = 10
